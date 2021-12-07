@@ -1,2 +1,1 @@
-pip install pipreqs 
-streamlit==0.75.0
+py -m pip install SomePackage
