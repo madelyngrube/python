@@ -1,1 +1,1 @@
-pip install pipreqs
+pip install pipreqs streamlit==0.75.0
