@@ -15,7 +15,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
 import csv
-pip install 
+import pip 
 
 columns = ["stadium", "city", "state", "team", "conference", "capacity", "built", "expanded", "div", "latitude", "longitude"]
 
