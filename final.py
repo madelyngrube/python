@@ -14,8 +14,7 @@ from PIL import Image
 import plotly.express as px
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
-import csv
-py -m pip install SomePackage   
+import csv  
 
 columns = ["stadium", "city", "state", "team", "conference", "capacity", "built", "expanded", "div", "latitude", "longitude"]
 
